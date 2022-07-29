@@ -1,0 +1,2 @@
+DEL /S C:\Projects\sefapool\Saved\SaveGames
+start E:\EpicGame\UE_4.26\Engine\Binaries\Win64\UE4Editor.exe  C:\Projects\sefapool\SefaPool.uproject -game Authentication -WINDOWED ResX=320 ResY=600 WinX=340 WinY=40 -log=TEST1.log
